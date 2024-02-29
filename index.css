@@ -1,0 +1,9 @@
+#box-model{
+    padding: 10px 9px;
+    border: 5px solid #f46;
+    margin: 30px;
+    height: 90px;
+    width: 180px;
+    outline: 5px solid #454;
+    background-color: rgb(34, 49, 213) 
+}
